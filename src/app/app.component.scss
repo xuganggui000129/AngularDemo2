@@ -1,0 +1,11 @@
+header{
+    height: 60px;
+    line-height: 50px;
+    background-color: darken($color: #000000, $amount: 0);
+
+
+    a{
+        padding: 20px 40px;
+        color: white;
+    }
+}
